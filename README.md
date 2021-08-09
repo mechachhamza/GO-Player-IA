@@ -2,9 +2,9 @@
 
 # Go Game with Classic AI Agents; ENSEIRB-MATMECA 2020-2021
 Contributors:
-    -KHATTAB Omar
-    -FETTOUHI Abdelkodousse (Groupe 2 (Machine 1))
     -MECHACH Hamza
+    -FETTOUHI Abdelkodousse 
+    -Khattab Omar
 
 ## Introduction
 A version of Go game in Python3 with some AI Agents;
